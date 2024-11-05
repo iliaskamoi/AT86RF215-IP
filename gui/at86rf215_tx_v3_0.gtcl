@@ -1,0 +1,2 @@
+# This file is automatically written.  Do not modify.
+proc gen_USERPARAMETER_TXD_WIDTH_VALUE {DATA_RATE } {expr {$DATA_RATE == "SDR" ? 1 : 2}}
